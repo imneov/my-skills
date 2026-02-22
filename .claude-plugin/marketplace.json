@@ -1,0 +1,29 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "neov-skills",
+  "version": "1.0.0",
+  "description": "Personal skill plugins for Claude Code",
+  "owner": {
+    "name": "neov"
+  },
+  "metadata": {
+    "description": "A curated collection of custom Claude Code skills and tools",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "neov-skills",
+      "source": "./plugins/neov-skills",
+      "description": "Personal skills collection including utilities and workflow helpers",
+      "version": "1.0.0",
+      "author": {
+        "name": "neov"
+      },
+      "repository": "https://github.com/imneov/neov-skills",
+      "license": "MIT",
+      "keywords": ["skills", "utilities", "workflow"],
+      "category": "productivity"
+    }
+  ]
+}

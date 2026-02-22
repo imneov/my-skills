@@ -1,0 +1,12 @@
+{
+  "name": "neov-skills",
+  "version": "1.0.0",
+  "description": "Personal skills collection including utilities and workflow helpers",
+  "author": {
+    "name": "neov",
+    "url": "https://github.com/imneov"
+  },
+  "repository": "https://github.com/imneov/neov-skills",
+  "license": "MIT",
+  "keywords": ["skills", "utilities", "workflow"]
+}
